@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">🔭 I’m currently working on:<br>Fullstack Development<br><br><br>🌱 I’m currently learning:<br>React and NextJs.<br><br><br>💬 Interested in:<br>JavaScript, React,  Node.js.</h6>
+<p align="left">🔭 <b>I’m currently working on:</b><br>Fullstack Development<br><br>🌱<b>I’m currently learning:</b><br>React and NextJs.<br><br><b>💬 Interested in:</b><br>JavaScript, React, Node.js.</p>
 
 ###
 
