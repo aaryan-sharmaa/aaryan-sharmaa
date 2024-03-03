@@ -84,12 +84,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aaryan-sharmaa/aaryan-sharmaa/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aaryan-sharmaa.aaryan-sharmaa&"  />
 </div>
